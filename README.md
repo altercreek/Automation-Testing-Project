@@ -1,1 +1,1 @@
-# My-SQA-work-sample
+# Automation Testing Project
